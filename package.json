@@ -1,0 +1,32 @@
+{
+  "name": "fortress-copy",
+  "version": "1.0.0",
+  "description": "Copy Minecraft nether fortress data from one savegame to another to fix migration issues from 1.12 to 1.13.",
+  "main": "index.coffee",
+  "dependencies": {
+    "async": "^2.6.1",
+    "mca-js": "^0.1.1",
+    "zlib": "^1.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sourcehunter/fortress-copy.git"
+  },
+  "keywords": [
+    "minecraft",
+    "nether",
+    "fortress",
+    "fix",
+    "1.13"
+  ],
+  "author": "Christian Dittrich",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sourcehunter/fortress-copy/issues"
+  },
+  "homepage": "https://github.com/sourcehunter/fortress-copy#readme"
+}
