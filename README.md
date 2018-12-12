@@ -33,5 +33,5 @@ topath: Path to savegame to write fortress data to.
 
 # Known limitations
 
-If the changed NBT data is longer then the already reserved sector size, it does NOT allocate a new sector for the data, so subsequent sectors will be overwritten. This usually should not happen, but I do not give any guarantees.
+If the changed NBT data is longer than the already reserved sector size, it does NOT allocate a new sector for the data, so subsequent sectors will be overwritten. This usually should not happen, but I do not give any guarantees.
 
