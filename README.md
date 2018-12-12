@@ -17,6 +17,12 @@ You need to install CoffeeScript:
 npm install -g coffeescript
 ```
 
+Install the required modules:
+
+```
+npm install
+```
+
 # Usage
 
 1. Upgrade your world to 1.13 (if you haven't already done this)
