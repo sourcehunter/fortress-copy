@@ -5,7 +5,7 @@ Copy Minecraft nether fortress data from one savegame to another to  fix migrati
 
 There are (known) cases where your savegame will get corrupted (details below)!
 
-Backup your world before atempting ANY meddling with the data! Once the world is broken, you world is lost!
+Backup your world before atempting ANY meddling with the data! Once the world is broken, your world is lost!
 
 # Requirements
 
